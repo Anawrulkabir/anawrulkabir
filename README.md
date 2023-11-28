@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Fahad Kabir</h1>
 <h3 align="center">
   A passionate Competitive programmer & frontend developer from Bangladesh
@@ -16,16 +16,10 @@
   />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
-      src="https://github-profile-trophy.vercel.app/?username=anawrulkabir"
-      alt="anawrulkabir"
-  /></a>
-</p>
-
-- 🌱 I’m currently learning **Tailwind CSS , Javascript , React** - 💬 Ask me
-about **CP** - 📫 How to reach me **mdanawrulkabirfahad123@gmail.com**
+- 🔭 I’m currently working on **Web Dev**
+- 🌱 I’m currently learning **Tailwind CSS , Javascript , React**
+- 💬 Ask me about **CP**
+- 📫 How to reach me **mdanawrulkabirfahad123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -207,28 +201,4 @@ about **CP** - 📫 How to reach me **mdanawrulkabirfahad123@gmail.com**
       height="40"
     />
   </a>
-</p>
-
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=anawrulkabir&show_icons=true&locale=en&layout=compact"
-    alt="anawrulkabir"
-  />
-</p>
-
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=anawrulkabir&show_icons=true&locale=en"
-    alt="anawrulkabir"
-  />
-</p>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=anawrulkabir&"
-    alt="anawrulkabir"
-  />
 </p>
