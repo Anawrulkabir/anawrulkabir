@@ -1,8 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://i.ibb.co/M7HvktK/linkedin-cover.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Fahad Kabir</h1>
 <h3 align="center">A passionate Competitive programmer & frontend developer from Bangladesh</h3>
 <img
-  src="https://i.ibb.co/M7HvktK/linkedin-cover.png"
+  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
   alt="Coding"
   align="right"
   width="400"
