@@ -2,12 +2,12 @@
 <h1 align="center">Hi 👋, I'm Fahad Kabir</h1>
 <h3 align="center">A passionate Competitive programmer & frontend developer from Bangladesh</h3>
 <img
-  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+  src="https://i.ibb.co/M7HvktK/linkedin-cover.png"
   alt="Coding"
   align="right"
   width="400"
 />
-<p align="left"> <img src="https://i.ibb.co/M7HvktK/linkedin-cover.png" alt="anawrulkabir" /> </p>
+<p align="left"> <img src="[https://i.ibb.co/M7HvktK/linkedin-cover.png](https://komarev.com/ghpvc/?username=anawrulkabir&label=Profile%20views&color=0e75b6&style=flat)" alt="anawrulkabir" /> </p>
 
 - 🔭 I’m currently working on **Web Dev**
 
