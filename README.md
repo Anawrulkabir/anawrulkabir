@@ -7,7 +7,7 @@
   align="right"
   width="400"
 />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anawrulkabir&label=Profile%20views&color=0e75b6&style=flat" alt="anawrulkabir" /> </p>
+<p align="left"> <img src="https://i.ibb.co/M7HvktK/linkedin-cover.png" alt="anawrulkabir" /> </p>
 
 - 🔭 I’m currently working on **Web Dev**
 
