@@ -2,9 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Anawrul Kabir Fahad</h1>
 <h3 align="center">A project driven MERN Stack Developer</h3>
-
-
-<iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
+<p> <img align="right" alt="Coding" width="400" src="https://i.giphy.com/0lGd2OXXHe4tFhb7Wh.webp"/></p>
 
 - 🔭 I’m currently building project using **MongoDB,Express,React & Node.js**
 
