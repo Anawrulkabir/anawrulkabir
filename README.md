@@ -1,10 +1,9 @@
-[![MasterHead](https://i.ibb.co/M7HvktK/linkedin-cover.png)](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/originals/51/4f/3f/514f3fccb71047d780be491c435a79e1.gif)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Anawrul Kabir Fahad</h1>
 <h3 align="center">A project driven MERN Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anawrulkabir&label=Profile%20views&color=0e75b6&style=flat" alt="anawrulkabir" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anawrulkabir" alt="anawrulkabir" /></a> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=anawrulkabir&label=Profile%20views&color=0e75b6&style=flat](https://i.giphy.com/0lGd2OXXHe4tFhb7Wh.webp)" alt="anawrulkabir" /> </p>
 
 - 🔭 I’m currently building project using **MongoDB,Express,React & Node.js**
 
