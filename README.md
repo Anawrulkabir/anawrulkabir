@@ -1,5 +1,34 @@
 [![MasterHead](https://i.ibb.co/M7HvktK/linkedin-cover.png)](https://rishavchanda.io)
 
+
+## Hi there, [fahadkabir](https://fahadkabir.vercel.app) here 👋🏼👨🏻‍💻
+
+[![Gmail Badge](https://img.shields.io/badge/-@mdanawrulkabirfahad123-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mdanawrulkabirfahad123@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-anawrulkabir-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anawrulkabir/ "Connect on LinkedIn")
+[![Telegram Badge](https://img.shields.io/badge/-@daftdey-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/daftdey "Contact on Telegram")
+[![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/fahadkabir "Connect on Facebook")
+
+<a href="https://fahadkabir.vercel.app"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/hand_v.png" align="right" height="275" /></a>
+
+I am a 3nd-year Undergraduate Student at Chittagong University of Engineering & Technology (CUET), pursuing a Bachelors in Mechanical Engineering, who is passionate about Software Engineering :bar_chart:, Competitive programming :snake:, and IoT :octocat:. I love to learn and contribute in any and every possible way.
+
+- 📭 [Reach out](#hi-there-samujjwaal-here) for help with MS CS in US, Data Science, Machine Learning, Python, and Scala
+- 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between
+- 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
+- 👾 Fun fact: Everything that has been or could be written/said already exists in the [Library of Babel](https://libraryofbabel.info/)
+
+<details>
+  <summary>Some of my Github Public Stats :computer:</summary>
+  
+  <a href="https://samujjwaal.me/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/laptop.png" align="right" height="200" /></a>
+
+  [![My Github Stats](https://github-readme-stats.vercel.app/api?username=samujjwaal&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/samujjwaal)
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=samujjwaal&color=blue)
+  ----
+  
+</details>
+
 <p align="center">
     <a href="https://github.com/alwinw" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@alwinw-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
 <!--     https://img.shields.io/badge/-%40anawrulkabir-123?style=flat-square&logo=GitHub&logoColor=white
