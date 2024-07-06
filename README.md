@@ -29,10 +29,16 @@
 </p>
 
 
-## Hi there, [fahadkabir](https://fahadkabir.me) here 👋🏼👨🏻‍💻                                   
 
 
-<a href="https://fahadkabir.vercel.app"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/hand_v.png" align="right" height="275" /></a>
+
+ ## Hi there, [fahadkabir](https://fahadkabir.me) here 👋🏼👨🏻‍💻         
+
+
+<a href="https://samujjwaal.me/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/laptop.png" align="right" height="300" /></a>
+
+
+
 
 I am a 3nd-year Undergraduate Student at Chittagong University of Engineering & Technology (CUET), pursuing a Bachelors in Mechanical Engineering, who is passionate about Software Engineering :bar_chart:, Competitive programming :snake:, and IoT :octocat:. I love to learn and contribute in any and every possible way.
 
@@ -49,12 +55,16 @@ I am a 3nd-year Undergraduate Student at Chittagong University of Engineering & 
 
 
 
- <a href="https://samujjwaal.me/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/laptop.png" align="right" height="200" /></a>
 
-  [![My Github Stats](https://github-readme-stats.vercel.app/api?username=anawrulkabir&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anawrulkabir)
 
   ![Profile Views](https://komarev.com/ghpvc/?username=anawrulkabir&color=blue)
 
+
+<div align="center">
+    <a href="https://github.com/anawrulkabir">
+        <img src="https://github-readme-stats.vercel.app/api?username=anawrulkabir&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="My Github Stats" />
+    </a>
+</div>
 
 
 
