@@ -1,87 +1,62 @@
 [![MasterHead](https://i.ibb.co/M7HvktK/linkedin-cover.png)](https://rishavchanda.io)
 
+<p align="center">
+  
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
+<img alt="Stripe" src="https://img.shields.io/badge/-Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white" />
+<img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img alt="Framer Motion" src="https://img.shields.io/badge/-Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+<img alt="Swiper.js" src="https://img.shields.io/badge/-Swiper.js-6332F6?style=flat-square&logo=swiper&logoColor=white" />
+<img alt="TanStack Query" src="https://img.shields.io/badge/-TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
+<img alt="React Hook Form" src="https://img.shields.io/badge/-React%20Hook%20Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white" />
+<img alt="ShadCN" src="https://img.shields.io/badge/-ShadCN-3178C6?style=flat-square&logo=shadcn&logoColor=white" />
+<img alt="DaisyUI" src="https://img.shields.io/badge/-DaisyUI-FF6A00?style=flat-square&logo=daisyui&logoColor=white" />
+<img alt="Material UI" src="https://img.shields.io/badge/-Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white" />
 
-## Hi there, [fahadkabir](https://fahadkabir.vercel.app) here 👋🏼👨🏻‍💻
+</p>
 
-[![Gmail Badge](https://img.shields.io/badge/-@mdanawrulkabirfahad123-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mdanawrulkabirfahad123@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-anawrulkabir-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anawrulkabir/ "Connect on LinkedIn")
-[![Telegram Badge](https://img.shields.io/badge/-@daftdey-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/daftdey "Contact on Telegram")
-[![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/fahadkabir "Connect on Facebook")
+
+<p align="center">
+    <img src="https://img.shields.io/badge/-@mdanawrulkabirfahad123-c14438?style=flat-square&logo=gmail&logoColor=white" href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=mdanawrulkabirfahad123@gmail.com" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-anawrulkabir-0072b1?style=flat-square&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/anawrulkabir/"/>
+    <img alt="Telegram" src="https://img.shields.io/badge/-@daftdey-0088CC?style=flat-square&logo=telegram&logoColor=white" />
+    <img alt="Messenger" src="https://img.shields.io/badge/-Messenger-0078FF?style=flat-square&logo=messenger&logoColor=white" href="https://www.facebook.com/profile.php?id=100073283195770"/>
+</p>
+
+
+## Hi there, [fahadkabir](https://fahadkabir.me) here 👋🏼👨🏻‍💻                                   
+
 
 <a href="https://fahadkabir.vercel.app"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/hand_v.png" align="right" height="275" /></a>
 
 I am a 3nd-year Undergraduate Student at Chittagong University of Engineering & Technology (CUET), pursuing a Bachelors in Mechanical Engineering, who is passionate about Software Engineering :bar_chart:, Competitive programming :snake:, and IoT :octocat:. I love to learn and contribute in any and every possible way.
 
-- 📭 [Reach out](#hi-there-samujjwaal-here) for help with MS CS in US, Data Science, Machine Learning, Python, and Scala
-- 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between
-- 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
-- 👾 Fun fact: Everything that has been or could be written/said already exists in the [Library of Babel](https://libraryofbabel.info/)
+➖ 🔭 I’m currently building project using **MongoDB,Express,React & Node.js**
 
-<details>
-  <summary>Some of my Github Public Stats :computer:</summary>
-  
-  <a href="https://samujjwaal.me/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/laptop.png" align="right" height="200" /></a>
+➖ 🌱 I’m currently learning **React & Next.js**
 
-  [![My Github Stats](https://github-readme-stats.vercel.app/api?username=samujjwaal&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/samujjwaal)
+➖ 👯 I’m looking to collaborate on **Full Stack Project**
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=samujjwaal&color=blue)
-  ----
-  
-</details>
+➖ 💬 Ask me about **React**
 
-<p align="center">
-    <a href="https://github.com/alwinw" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@alwinw-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-<!--     https://img.shields.io/badge/-%40anawrulkabir-123?style=flat-square&logo=GitHub&logoColor=white
-     -->
-    <a href="https://www.linkedin.com/in/alwinrwang" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-    <a href="https://www.researchgate.net/profile/Alwin_Wang" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
-    <a href="https://orcid.org/0000-0003-4883-2917" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
-    <a href="https://stackoverflow.com/users/5782687/alwin" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
-    <a href="https://stackexchange.com/users/4446338/alwin" target="_blank"><img alt="Stack Exchange" src="https://img.shields.io/badge/-Stack%20Exchange-1E5297?style=flat-square&logo=Stack-Exchange&logoColor=white"></a>
-</p>
-
-<p align="center">
-    <a href="https://github.com/alwinw?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
-    <a href="https://github.com/alwinw?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
-    <a href="https://github.com/alwinw?tab=repositories&language=r" target="_blank"><img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white"></a>
-    <a href="https://github.com/alwinw?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
-    <a href="https://github.com/alwinw?tab=repositories&language=shell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"></a>
-    <a href="https://github.com/alwinw?tab=repositories&language=matlab" target="_blank"><img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white"></a>
-    <a href="https://github.com/alwinw?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
-</p>
-
-<p align="center">
-    <a href="https://github.com/alwinw?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
-    <a href="https://github.com/alwinw" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/alwinw/alwinw?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
-    <!--<a href="https://github.com/alwinw" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/alwinw/alwinw?label=hits&style=flat-square"></a>-->
-    <a href="https://github.com/alwinw/alwinw" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/alwinw/alwinw?label=profile%20updated&style=flat-square"></a>
-</p>
-
-<details>
-<summary>Click for GitHub Stats</summary>
-<p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alwinw&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
-    <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwinw&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
-</p>
-</details>
-
-<h1 align="center">Hi 👋, I'm Anawrul Kabir Fahad</h1>
-<h3 align="center">A project driven MERN Stack Developer</h3>
-<!-- <p> <img align="right" alt="Coding" width="400" src="https://i.giphy.com/0lGd2OXXHe4tFhb7Wh.webp"/></p> -->
-
-- 🔭 I’m currently building project using **MongoDB,Express,React & Node.js**
-
-- 🌱 I’m currently learning **React & Next.js**
-
-- 👯 I’m looking to collaborate on **Full Stack Project**
-
-- 💬 Ask me about **React**
-
-- 📫 How to reach me **mdanawrulkabirfahad123@gmail.com**
+➖ 📫 How to reach me **mdanawrulkabirfahad123@gmail.com**
 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+ <a href="https://samujjwaal.me/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/laptop.png" align="right" height="200" /></a>
+
+  [![My Github Stats](https://github-readme-stats.vercel.app/api?username=anawrulkabir&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anawrulkabir)
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=anawrulkabir&color=blue)
+
+
+
+
+
 
