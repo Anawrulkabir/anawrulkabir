@@ -40,7 +40,7 @@
 
 
 
-I am a 3nd-year Undergraduate Student at Chittagong University of Engineering & Technology (CUET), pursuing a Bachelors in Mechanical Engineering, who is passionate about Software Engineering :bar_chart:, Competitive programming :snake:, and IoT :octocat:. I love to learn and contribute in any and every possible way.
+I am a Junior Frontend Developer specializing in React pursuing a Bachelor in Mechanical Engineering at Chittagong University of Engineering & Technology (CUET),  who is passionate about Software Engineering :bar_chart:, Competitive programming :snake:, and IoT :octocat:. I love to learn and contribute in any and every possible way.
 
 ➖ 🔭 I’m currently building project using **MongoDB,Express,React & Node.js**
 
