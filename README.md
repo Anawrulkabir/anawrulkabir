@@ -52,6 +52,8 @@ I am a 3nd-year Undergraduate Student at Chittagong University of Engineering & 
 
 ➖ 📫 How to reach me **mdanawrulkabirfahad123@gmail.com**
 
+➖ 💇‍♂️ Visit my website [fahadkabir.me](https://fahadkabir.me)
+
 
 
 
