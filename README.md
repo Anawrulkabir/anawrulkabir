@@ -44,7 +44,7 @@ I am a Junior Frontend Developer specializing in React pursuing a Bachelor in Me
 
 ➖ 🔭 I’m currently building project using **MongoDB,Express,React & Node.js**
 
-➖ 🌱 I’m currently learning **React & Next.js**
+➖ 🌱 I’m currently learning **Typescript & Next.js**
 
 ➖ 👯 I’m looking to collaborate on **Full Stack Project**
 
