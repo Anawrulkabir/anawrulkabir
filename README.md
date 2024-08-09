@@ -4,6 +4,7 @@
   
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img alt="Typescript" src="https://img.shields.io/badge/-Typescript-45b8d8?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=nodedotjs&logoColor=white" />
 <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
@@ -22,10 +23,21 @@
 
 
 <p align="center">
-    <img src="https://img.shields.io/badge/-@mdanawrulkabirfahad123-c14438?style=flat-square&logo=gmail&logoColor=white" href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=mdanawrulkabirfahad123@gmail.com" />
+  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=mdanawrulkabirfahad123@gmail.com">
+    <img alt="Send email" src="https://img.shields.io/badge/-@mdanawrulkabirfahad123-c14438?style=flat-square&logo=gmail&logoColor=white" href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=mdanawrulkabirfahad123@gmail.com" />
+  </a>  
+  <a href="https://www.linkedin.com/in/anawrulkabir/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-anawrulkabir-0072b1?style=flat-square&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/anawrulkabir/"/>
-    <img alt="Telegram" src="https://img.shields.io/badge/-@daftdey-0088CC?style=flat-square&logo=telegram&logoColor=white" />
-    <img alt="Messenger" src="https://img.shields.io/badge/-Messenger-0078FF?style=flat-square&logo=messenger&logoColor=white" href="https://www.facebook.com/profile.php?id=100073283195770"/>
+  </a>
+    
+   <a href="">
+      <img alt="Twitter" src="https://img.shields.io/badge/-@fahadkabir123-0088CC?style=flat-square&logo=x&logoColor=white" />
+   </a>
+   
+   <a href="https://www.facebook.com/profile.php?id=100073283195770">
+     <img alt="Facebook" src="https://img.shields.io/badge/-Fahad%20Kabir-0078FF?style=flat-square&logo=facebook&logoColor=white" />
+   </a>
+    
 </p>
 
 
@@ -35,7 +47,7 @@
  ## Hi there, [fahadkabir](https://fahadkabir.me) here 👋🏼👨🏻‍💻         
 
 
-<a href="https://samujjwaal.me/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/laptop.png" align="right" height="300" /></a>
+<a href="https://fahadkabir.me/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/laptop.png" align="right" height="300" /></a>
 
 
 
