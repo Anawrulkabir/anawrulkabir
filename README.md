@@ -1,14 +1,18 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waved&color=0:0d1117,100:1a1f35&height=120&section=header&text=Fahad%20Kabir&fontSize=48&fontColor=58a6ff&fontAlignY=65&desc=Full-Stack%20%C3%97%20Platform%20%C3%97%20AI&descAlignY=85&descSize=16&descColor=8b949e"/>
+<h1>Fahad Kabir</h1>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1200&color=58A6FF&center=true&width=620&lines=Building+GPU+infrastructure+by+day.;Solving+PDEs+with+neural+nets+at+night.;Mechanical+Engineering+student.+Everything+else%3F+Self-taught." alt="Typing SVG" />
 
 <br/>
 
-```
-Mechanical Engineering student. Manages Kubernetes GPU clusters in production.
-```
+[![Portfolio](https://img.shields.io/badge/fahadkabir.me-000?style=for-the-badge&logo=safari&logoColor=58a6ff)](https://fahadkabir.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://linkedin.com/in/anawrulkabir)
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=58a6ff)](mailto:mdanawrulkabirfahad123@gmail.com)
+
+</div>
+
+---
 
 At **[Poridhi.io](https://poridhi.io)** I own both the product and the platform — from React components to bare-metal GPU provisioning. Currently researching LLM-guided Physics-Informed Neural Networks as my thesis.
 
@@ -46,11 +50,5 @@ At **[Poridhi.io](https://poridhi.io)** I own both the product and the platform 
 <br/>
 
 🏆 Break The Monolith Hackathon Champion &nbsp;·&nbsp; ICPC Prelims ×2 &nbsp;·&nbsp; 300+ problems
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/fahadkabir.me-000?style=for-the-badge&logo=safari&logoColor=58a6ff)](https://fahadkabir.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://linkedin.com/in/anawrulkabir)
-[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=58a6ff)](mailto:mdanawrulkabirfahad123@gmail.com)
 
 </div>
